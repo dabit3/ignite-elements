@@ -2,7 +2,7 @@
 // ----------------------------------------------------------------------------
 
 const RNElements = 'react-native-elements'
-const EXAMPLE_FILE = 'ElementsExample.js'
+const EXAMPLE_FILE = 'ElementsExample.js.ejs'
 
 const add = async function (context) {
   const { ignite } = context
